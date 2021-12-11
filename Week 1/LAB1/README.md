@@ -10,6 +10,9 @@
 
 ### Notes:
 
+## i completed this task succefully with out errors
+## viewed the web on my browser
+
 Quickstart: Create a Linux VM
 * https://docs.microsoft.com/en-us/azure/virtual-machines/linux/quick-create-cli
 
