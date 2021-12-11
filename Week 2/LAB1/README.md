@@ -9,6 +9,11 @@
 
 ### Notes:
 
+## I had a problem on this lab and have been able to resolve it even after serious effort.
+
+# I cant locate the directory, having downloaded my .pem into download directory yet i cant find it , its quite frustrating, though will keep trying until i get it right
+
+
 Quickstart: Create a Linux VM
 * https://aws.amazon.com/getting-started/launch-a-virtual-machine-B-0/
 
