@@ -9,9 +9,9 @@
 7. View the web server in action
 
 ### Notes:
+## completed this task seccessfully,
+## Used my public IP to view my web server in the browser
 
-## i completed this task succefully with out errors
-## viewed the web on my browser
 
 Quickstart: Create a Linux VM
 * https://docs.microsoft.com/en-us/azure/virtual-machines/linux/quick-create-cli
