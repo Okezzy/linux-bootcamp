@@ -9,6 +9,10 @@
 
 ### Notes:
 
+## I completed this lab
+
+## working with azure looks more comforting , 
+
 Tutorial: Install a LAMP stack on an Azure Linux VM
 * https://docs.microsoft.com/en-us/azure/virtual-machines/linux/tutorial-lamp-stack
 

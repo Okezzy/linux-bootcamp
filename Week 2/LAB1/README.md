@@ -13,6 +13,7 @@
 
 # I cant locate the directory, having downloaded my .pem into download directory yet i cant find it , its quite frustrating, though will keep trying until i get it right
 
+# I changed different terminals yet i cant gerrit right at the moment
 
 Quickstart: Create a Linux VM
 * https://aws.amazon.com/getting-started/launch-a-virtual-machine-B-0/
